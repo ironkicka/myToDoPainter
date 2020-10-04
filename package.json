@@ -1,0 +1,16 @@
+{
+  "name": "elm_proto_type_element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "elm make src/Main.elm --output=index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm": "^0.19.1-3"
+  }
+}
